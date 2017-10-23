@@ -23,5 +23,5 @@ Endmontage im www.erfindergarden.de
 Über die Kugelkontakte werden die beiden Spulen des Steppermotors mit der Platine verbunden. Folgendes Schema wird dabei verwendet:
 
 ![](https://github.com/minirevollo/ASD-analoger-stepper-driver/blob/master/ASD%20Ansteuerung.png)
-
+![](https://github.com/minirevollo/ASD-analoger-stepper-driver/blob/master/ASD%20AnalogerStepperDriver.svg)
 
