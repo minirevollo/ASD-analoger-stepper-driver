@@ -13,7 +13,15 @@ Der analoge Stepper Driver dient dazu einen Stepper Motor ohne Microcontroller z
 # Produktion #
 
 3D Druck auf einem Craftbot.
+
 Platinenfräsung mit einer Othermill
+
 Endmontage im www.erfindergarden.de
+
+# Funktion #
+
+Über die Kugelkontakte werden die beiden Spulen des Steppermotors mit der Platine verbunden. Folgendes Schema wird dabei verwendet:
+
+![](https://github.com/minirevollo/ASD-analoger-stepper-driver/blob/master/ASD%20Ansteuerung.png)
 
 
