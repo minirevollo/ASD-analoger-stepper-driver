@@ -23,5 +23,8 @@ Endmontage im www.erfindergarden.de
 Über die Kugelkontakte werden die beiden Spulen des Steppermotors mit der Platine verbunden. Folgendes Schema wird dabei verwendet:
 
 ![](https://github.com/minirevollo/ASD-analoger-stepper-driver/blob/master/ASD%20Ansteuerung.png)
+
+Die Äußere Bahn hat Kontakt zum Ground der Stromquelle und die innere Bahn hat Kontakt zum VCC. Zwischen diesen beiden dauerhaft kontaktierten Bahnen verläuft die Abtastung. Abwechselnd GND - Isolierabstand (rot) - VCC.
+
 ![](https://github.com/minirevollo/ASD-analoger-stepper-driver/blob/master/ASD%20AnalogerStepperDriver.svg)
 
