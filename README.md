@@ -27,8 +27,7 @@ Endmontage im www.erfindergarden.de
 Über die Kugelkontakte werden die beiden Spulen des Steppermotors mit der Platine verbunden. Folgendes Schema wird dabei verwendet:
 
 
-<img src = "IMG/ASD%20Ansteuerung.png" width = "49%" /><img src = "IMG/IMG_20171012_211633.jpg
-" width = "49%" align = "right"/>
+<img src = "IMG/ASD%20Ansteuerung.png" width = "49%" /> <img src = "IMG/IMG_20171012_211633.jpg" width = "49%" align = "right"/>
 
 Die Äußere Bahn hat Kontakt zum Ground der Stromquelle und die innere Bahn hat Kontakt zum VCC. Zwischen diesen beiden dauerhaft kontaktierten Bahnen verläuft die Abtastung. Abwechselnd GND - Isolierabstand (rot) - VCC.
 
